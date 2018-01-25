@@ -1,0 +1,2 @@
+# CubingQQBot
+python toy-project
